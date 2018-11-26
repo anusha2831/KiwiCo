@@ -1,0 +1,3 @@
+Thanks for giving me a design challenge.Implemented the given mockup in 4 hours 15 min. I was able to accomplish the design,add some transition animations. I could not find all the exact fonts in Kiwico website to make use of. If I had more time, I could have done the following:
+1.add some css3 animations
+2.check in various other browsers
